@@ -1,1 +1,2 @@
-# SBC_Playground
+### Guides:
+- [How to install google services.](gapps.md)
