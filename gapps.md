@@ -3,7 +3,7 @@
 ### Requpments:
 - [Magisk](https://github.com/topjohnwu/Magisk)
 - [MagiskHideProps](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf)
-- [GAPPS](https://sourceforge.net/projects/magiskgapps/files/)
+- [GAPPS](https://sourceforge.net/projects/magiskgapps/files/) ([difference between versions](https://github.com/wacko1805/MagiskGapps#apps))
 - [Termux](https://github.com/termux/termux-app)
 
 I recommend this GAPPS version - [MagiskGApps-a.12L.BASIC.10.16.2022.zip](https://sourceforge.net/projects/magiskgapps/files/android-12L-ALPHA/17.10.2022/MagiskGApps-a.12L.BASIC.10.16.2022.zip/download)
