@@ -1,5 +1,6 @@
 ### Guides:
 - [How to install google services on Android images.](gapps.md)
+- [Build ffmpeg with rockchip mpp support](ffmpeg_rockchip.md)
 
 
 ### Orange Pi 5:
